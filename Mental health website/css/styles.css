@@ -1,0 +1,117 @@
+.links {
+   display: flex;
+   align-items: center;
+   margin-left: 100px;
+}
+
+
+
+
+.links a {
+   color: white;
+   text-decoration: none;
+   padding: 15px 30px;
+   background-color: #2c80ff;
+
+
+
+}
+
+
+.links a:hover {
+   background-color: rgb(0, 170, 255);
+}
+
+
+body {
+   background: rgb(255, 255, 255);
+   font-family: Arial;
+}
+
+
+.container {
+   width: 800px;
+   margin: 40px auto;
+   text-align: center;
+}
+
+
+.title {
+
+   padding: 15px;
+   font-size: 30px;
+   margin-bottom: 30px;
+}
+
+
+.lists {
+   text-align: left;
+
+}
+
+
+
+
+.logo img {
+   height: 200px;
+   width: 200px;
+}
+
+
+
+.dropdown {
+   position: relative;
+   display: flex;
+}
+
+
+.dropdown-links {
+   display: none;
+   position: absolute;
+   top: 100%;
+   background: white;
+   border: 1px solid #999;
+}
+
+
+.dropdown-links a {
+   display: block;
+   padding: 10px 20px;
+   text-decoration: none;
+   color: white;
+}
+
+
+.dropdown-links a:hover {
+   background-color: rgb(0, 170, 255);
+}
+
+
+.dropdown:hover .dropdown-links {
+   display: block;
+}
+
+
+#titleimg{
+   width: 100%;
+}
+
+#quest{
+   margin-left: 600px;
+   background-color: rgb(0, 206, 155);
+   border-radius: 15px;
+}
+
+#ans{
+   margin-right: 500px;
+   background-color: rgb(13, 145, 206);
+   border-radius: 15px;
+}
+
+#infoimg{
+   width: 50%;
+   height: 400px;
+   margin-left: 350px;
+
+
+ }
