@@ -97,7 +97,7 @@ body {
 }
 
 #quest{
-   margin-right: 600px;
+   margin-left: 600px;
    background-color: rgb(0, 206, 155);
    border-radius: 15px;
 }
@@ -115,32 +115,3 @@ body {
 
 
  }
-
-
- #comment{
-text-align: center;
-width: 800px;
-font-size: 150%;
-border-radius: 25px;
- }
-
- #comments{
-   margin: auto;
-   width: 800px;
-   
-    }
-
- #submit{
-   text-align: center;
-   width: 150px;
-   font-size: 120%;
-   border-radius: 25px;
-   background-color: rgb(0, 100, 230);
-    }
-
- #submits{
-   padding-top: 10px;
-   margin: auto;
-   width: 150px;
-   
-    }
