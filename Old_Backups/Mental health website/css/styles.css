@@ -1,7 +1,7 @@
 .links {
    display: flex;
    align-items: center;
-   margin:auto;
+   margin: auto;
    width: 1000px;
 }
 
@@ -179,8 +179,14 @@ td {
    color: black;
 }
 
-#B2S:hover{
+#B2S:hover {
    color: rgb(141, 141, 141);
 }
 
 
+
+
+#headsup {
+   width: 1200px;
+   margin: auto;
+}
